@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwelveOne\AprilTwelveOne\bin\Debug\AprilTwelveOne.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwelveOne\AprilTwelveOne\obj\Debug\AprilTwelveOne.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwelveOne\AprilTwelveOne\bin\Debug\AprilTwelveOne.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwelveOne\AprilTwelveOne\bin\Debug\AprilTwelveOne.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwelveOne\AprilTwelveOne\obj\Debug\AprilTwelveOne.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\AprilTwelveOne\AprilTwelveOne\obj\Debug\AprilTwelveOne.pdb
